@@ -53,23 +53,23 @@
 
 ### Задание 3
 
-`Приведите ответ в свободной форме........`
+`Что нужно сделать:`
 
-1. `Заполните здесь этапы выполнения, если требуется ....`
-2. `Заполните здесь этапы выполнения, если требуется ....`
-3. `Заполните здесь этапы выполнения, если требуется ....`
-4. `Заполните здесь этапы выполнения, если требуется ....`
-5. `Заполните здесь этапы выполнения, если требуется ....`
-6. 
+1. `Установите на машину Nexus.`
+2. `Создайте raw-hosted репозиторий.`
+3. `Измените pipeline так, чтобы вместо Docker-образа собирался бинарный go-файл. Команду можно скопировать из Dockerfile.`
+4. `Загрузите файл в репозиторий с помощью jenkins.`
 
-```
-Поле для вставки кода...
-....
-....
-....
-....
-```
+`В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.`
 
-`При необходимости прикрепитe сюда скриншоты
-![Название скриншота](ссылка на скриншот)`
+![img](https://github.com/vajnichev/8-02-hw/blob/main/screen/8.3.1.png)
+![img](https://github.com/vajnichev/8-02-hw/blob/main/screen/8.3.2.png)
+![img](https://github.com/vajnichev/8-02-hw/blob/main/screen/8.3.3.png)
+![img](https://github.com/vajnichev/8-02-hw/blob/main/screen/8.3.4.png)
+![img](https://github.com/vajnichev/8-02-hw/blob/main/screen/8.3.5.png)
+![img](https://github.com/vajnichev/8-02-hw/blob/main/screen/8.3.6.png)
+![img](https://github.com/vajnichev/8-02-hw/blob/main/screen/8.3.7.png)
+![img](https://github.com/vajnichev/8-02-hw/blob/main/screen/8.3.8.png)
+![img](https://github.com/vajnichev/8-02-hw/blob/main/screen/8.3.9.png)
+
 

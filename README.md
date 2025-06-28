@@ -70,6 +70,5 @@
 ![img](https://github.com/vajnichev/8-02-hw/blob/main/screen/8.3.6.png)
 ![img](https://github.com/vajnichev/8-02-hw/blob/main/screen/8.3.7.png)
 ![img](https://github.com/vajnichev/8-02-hw/blob/main/screen/8.3.8.png)
-![img](https://github.com/vajnichev/8-02-hw/blob/main/screen/8.3.9.png)
 
 

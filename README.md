@@ -15,7 +15,7 @@
 ```
 1. Установите себе jenkins по инструкции из лекции или любым другим способом из официальной документации. Использовать Docker в этом задании нежелательно.
 
-![img](https://github.com/vajnichev/8-02-hw/blob/main/img/8.1.2.png)
+![img](https://github.com/vajnichev/8-02-hw/blob/main/screen/8.1.1.png)
 
 ---
 

@@ -17,6 +17,9 @@
 
 ![img](https://github.com/vajnichev/8-02-hw/blob/main/screen/8.1.1.png)
 
+2. `Установите на машину с jenkins golang.`
+
+![img](https://github.com/vajnichev/8-02-hw/blob/main/screen/8.1.2.png)
 
 ### Задание 2
 

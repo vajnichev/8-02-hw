@@ -30,7 +30,6 @@
 ![img](https://github.com/vajnichev/8-02-hw/blob/main/screen/8.1.4.png)
 ![img](https://github.com/vajnichev/8-02-hw/blob/main/screen/8.1.8.png)
 ![img](https://github.com/vajnichev/8-02-hw/blob/main/screen/8.1.5.png)
-![img](https://github.com/vajnichev/8-02-hw/blob/main/screen/8.1.2.png)
 ![img](https://github.com/vajnichev/8-02-hw/blob/main/screen/8.1.6.png)
 ![img](https://github.com/vajnichev/8-02-hw/blob/main/screen/8.1.7.png)
 
